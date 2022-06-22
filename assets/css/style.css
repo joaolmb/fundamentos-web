@@ -21,7 +21,7 @@
 
 #menu li a {
     text-decoration: none;
-    color: tomato;
+    color: #d63031;
     font-size: 20px;
 }
 
@@ -34,7 +34,7 @@
 }
 
 .br-50 {
-    border-radius: 50%;
+    border-radius: 50px;
 }
 
 .wh-300 { 
